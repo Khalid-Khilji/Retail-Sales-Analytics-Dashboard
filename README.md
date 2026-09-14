@@ -100,7 +100,7 @@ Based on the analysis, marketing and inventory planning should prioritize the We
 
 ## Additional Analysis (Python)
 
-Beyond the Power BI dashboard, deeper statistical analysis was done using Python (pandas, matplotlib) to uncover patterns not visible in standard visualizations. Full notebook: [`notebooks/analysis.ipynb`](notebook/sales_analysis.ipynb)
+Beyond the Power BI dashboard, deeper statistical analysis was done using Python (pandas, matplotlib) to uncover patterns not visible in standard visualizations. Full notebook: [`notebook/sales_analysis.ipynb`](notebook/sales_analysis.ipynb)
 
 ### Top 10 Customers by Revenue
 Sean Miller is the highest revenue-generating customer ($25,043), followed by Tamara Chand ($19,052) and Raymond Buch ($15,117). These top 10 customers together contribute **6.80%** of total sales revenue ($153,811 out of $2,261,255).
