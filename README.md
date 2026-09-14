@@ -129,5 +129,6 @@ Wyoming leads by a wide margin with an AOV of **$1,603**, followed by Vermont ($
 This is a different lens than total sales by state — a state can have low order volume but high per-transaction value. Wyoming and Vermont represent high-value customer pockets worth targeting for premium offerings or account-based marketing, rather than judging market potential by total revenue alone.
 ## Author
 
-khalid khilji — Data Analyst
-[LinkedIn/Contra profile link]
+Khalid Khilji — Data Analyst
+[LinkedIn](https://www.linkedin.com/in/khalid-khilji-4a4861435?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[Contra](https://contra.com/khalid_khilji_9jjroxjw?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=khalid_khilji_9jjroxjw)
